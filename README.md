@@ -1,5 +1,5 @@
 # Telegram-Bot-Send-Message
->You need to first create a bot by BotFather. :nerd_face:
+>You need to first create a bot by BotFather. :desktop_computer:
 
 ```
 pip install requests
